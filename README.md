@@ -3,6 +3,11 @@
 
 This dashboard visualizes wildlife incidents in Canberra, providing insights into the number of incidents by species, their distribution over time, and their geographic locations. It is built using Dash, Plotly, and Pandas.
 
+# Python Dashboard
+
+This project is deployed and can be accessed [here](http://ec2-52-62-61-15.ap-southeast-2.compute.amazonaws.com).
+
+
 ![F9B40F03-EFD9-48CB-AF35-9F4316A8681F](https://github.com/acharyaarish/Python_Dashboard/assets/87922896/63b84853-03a9-4b99-8c5f-1a04f2b8b247)
 
 ![7FBDD433-8DE0-43F9-8209-CDEC00C493E5](https://github.com/acharyaarish/Python_Dashboard/assets/87922896/7f7bc64e-b44c-49f6-8dbd-453b02704af1)
@@ -10,12 +15,6 @@ This dashboard visualizes wildlife incidents in Canberra, providing insights int
 ![D8FC5332-682A-44E1-B0F1-59EF9B9DC726](https://github.com/acharyaarish/Python_Dashboard/assets/87922896/5bdaddf7-5075-4ff6-b100-86bdc0aa04e6)
 
 ![024A30C6-6EC6-4FDE-B3AB-2E0130F05EC5](https://github.com/acharyaarish/Python_Dashboard/assets/87922896/264f2c21-0e57-4c98-b662-a601fc722644)
-
-
-# Python Dashboard
-
-This project is deployed and can be accessed [here](http://ec2-52-62-61-15.ap-southeast-2.compute.amazonaws.com).
-
 
 
 ## Features
