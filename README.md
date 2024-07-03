@@ -12,6 +12,12 @@ This dashboard visualizes wildlife incidents in Canberra, providing insights int
 ![024A30C6-6EC6-4FDE-B3AB-2E0130F05EC5](https://github.com/acharyaarish/Python_Dashboard/assets/87922896/264f2c21-0e57-4c98-b662-a601fc722644)
 
 
+# Python Dashboard
+
+This project is deployed and can be accessed [here](http://ec2-52-62-61-15.ap-southeast-2.compute.amazonaws.com).
+
+
+
 ## Features
 
 - Select Species: Dropdown to filter incidents by species.
