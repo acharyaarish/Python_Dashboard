@@ -5,7 +5,7 @@ This dashboard visualizes wildlife incidents in Canberra, providing insights int
 
 ## Report
 
-This repo consists of a detailed Wildlife Analysis Report (2016-24) from government dataset from Australian Capital Territory(ACT), Australia. The report contains an Analysis of Wildlife Incidents in detail such as Wildlife Hotspots for Incidents, Most Prone time and seasons for incidents along with the species who are involved in incidents.
+This repo consists of a detailed Wildlife Analysis Report (2016-24) from government dataset from Australian Capital Territory(ACT), Australia. The report contains an Analysis of Wildlife Incidents in detail such as Wildlife Hotspots for Incidents, Most Prone time and seasons for incidents along with the species who are involved in incidents (Wildlife Incidents ACT.pdf)
 
 
 ## Python Dashboard
