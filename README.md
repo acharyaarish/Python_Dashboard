@@ -109,7 +109,7 @@ This project is deployed in AWS and can be accessed [here](http://ec2-52-62-61-1
 
 ## Customization
 
-You can customize the dashboard by modifying the layout, styles, or data processing logic:
+Please feel free to use and modify this code for your needs or for improvements.
 
 - Adding new graphs: You can add new graphs by modifying the `app.layout` in `app.py` and creating new callback functions.
 - Changing styles: Update the styles in `styles.py` to change the appearance of the dashboard.
